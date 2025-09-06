@@ -1,0 +1,1 @@
+About common stop Watch in a web dashboard where users wants to stop a particular timer. That will be the user wants to stop the timer it can in this web dashbooard. 
